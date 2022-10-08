@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-welcome ,everyone ,hi
+welcome ,everyone,hii
 =======
 hello welcome everyone
 >>>>>>> css-assignments
